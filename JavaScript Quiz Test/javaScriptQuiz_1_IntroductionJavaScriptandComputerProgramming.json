@@ -92,7 +92,7 @@
         }
         { 
            "__comment": "10"
-           "question": "Using JavaScript, we want to display the word "test" in the console. What statement do we use to do this?:" ,
+           "question": "Using JavaScript, we want to display the word 'test' in the console. What statement do we use to do this?:" ,
            "answers":[
              {"option": "console('test');", "answer":"false"},
              {"option": "log('test');", "answer":"false"},
