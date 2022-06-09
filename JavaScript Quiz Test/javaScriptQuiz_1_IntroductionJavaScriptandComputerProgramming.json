@@ -112,12 +112,12 @@
         }
         { 
            "__comment": "12"
-           "question": "The javaScript code includes the console.log("http://test.org"); command. Its ejecution will:",
+           "question": "The javaScript code includes the console.log('http://test.org'); command. Its ejecution will:",
            "answers":[
              {"option": "Display on the console information about the progress of http://test.org page loading.", "answer":"false"},
              {"option": "Cause the page http://test.org to be loadde into the browser.", "answer":"false"},
              {"option": "Send a log with information about the currently executed script to the indicated address http://test.org", "answer":"false"}
-             {"option": "Display the following message on the console: "http://test.org".", "answer":"true"}
+             {"option": "Display the following message on the console: 'http://test.org'.", "answer":"true"}
            ]
         }
         { 
@@ -139,7 +139,7 @@
              {"option": "<execute>", "answer":"false"}
              {"option": "<source>", "answer":"false"}
            ]
-        }//
+        }
        
     ]
 }
