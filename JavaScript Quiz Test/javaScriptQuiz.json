@@ -1,77 +1,97 @@
 {
     "questions":[
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "What tag do we use in HTML to denote the main part of the document inside which we define the page elements?",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "<body>", "answer":"true"},seguro
+             {"option": "<head>", "answer":"false"}
+             {"option": "<main>", "answer":"false"}
+             {"option": "<content>", "answer":"false"}
            ]
-        }//
+        }//1
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "A cliente-side javaScript program:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "should be embedded inside an HTML document", "answer":"true"},seguro
+             {"option": "runs directly in a web browser and can contain an HTML document inside it", "answer":"false"},
+             {"option": "requires server suppor to run.", "answer":"false"}
+             {"option": "may be embedded inside an HTML document or run standalone in the browser", "answer":"false"}
            ]
-        }//
+        }//2
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "Entering about:blank in the address bar of your browser will:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "reset the browser to its default settings", "answer":"false"},
+             {"option": "generate a page with information about the browser's statuts and send it to the developer.", "answer":"false"}, Seguro
+             {"option": "generate and load a minimal blank HTML page into the current tab.", "answer":"false"}
+             {"option": "open a tab with information about your browser", "answer":"false"}
            ]
-        }//
+        }//3
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "The basic toolkit needed to effectively develop JavaScript code consists of two elements:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "interpreter, debugger.", "answer":"false"},
+             {"option": "code editor, debugger.", "answer":"false"},
+             {"option": "code editor, interpreter.", "answer":"true"}Seguro
+             {"option": "interpreter, package manager.", "answer":"false"}
            ]
-        }//
+        }//4
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "What is not the task of the interpreter?",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "Creating a runtime environment for the program.", "answer":"false"},seguro
+             {"option": "Verifying the correctness of the program source code(sintax).", "answer":"false"},
+             {"option": "Transforming all program code into target code before executión.", "answer":"true"}
+             {"option": "Transforming the individual commands of the source code into the target form.", "answer":"false"}
            ]
-        }//
+        }//5
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "Where will we definitely not be able to execute JavaScript code?",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "Directly in the processor.", "answer":"false"},
+             {"option": "In a server environment using node.js.", "answer":"false"},
+             {"option": "In a web browser.", "answer":"true"}
+             {"option": "On a mobile device.", "answer":"false"}Seguro
            ]
-        }//
+        }//6
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "The TypeScript language is:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "A new language based on JavaScript which, among other things, introduces static typing.", "answer":"false"},Seguro
+             {"option": "An alternative name for JavaScript", "answer":"false"},
+             {"option": "A variant of JavaScript that is compiled rather than interpreted.", "answer":"false"} seguro
+             {"option": "The original name for JavaScript, which has been changed over time.", "answer":"false"}
            ]
-        }//
+        }//7
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "HTML is:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "A language for describing the structure of a web page.", "answer":"true"},Seguro
+             {"option": "One of the data-comprenssion formats.", "answer":"false"},
+             {"option": "A scripting language to support mathematical calculations.", "answer":"true"}
+             {"option": "A network protocol.", "answer":"false"}
            ]
-        }//
+        }//8
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "In a browser, we want to open a local file by typing the path to it in the address bar. The path must be preceded by:",
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "https://", "answer":"true"},
+             {"option": "http://.", "answer":"false"},
+             {"option": "file://.", "answer":"true"}
+             {"option": "local:///.", "answer":"false"}
            ]
-        }//
+        }//9
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "Using JavaScript, we want to display the word "test" in the console. What statement do we use to do this?:" ,
            "answers":[
-             {"option": "For sure!", "answer":"true"},
-             {"option": "No, not at all", "answer":"false"}
+             {"option": "console("test");", "answer":"true"},
+             {"option": "log("test");", "answer":"false"},
+             {"option": "console(log, "test");.", "answer":"true"}
+             {"option": "console.log("test");", "answer":"false"}
            ]
-        }//
+        }//10
         { 
-           "question": "Is Coding Ningas the best online learning platform?",
+           "question": "In the browser, we type into the address bar a string starting with file://. This means that:",
            "answers":[
              {"option": "For sure!", "answer":"true"},
              {"option": "No, not at all", "answer":"false"}
